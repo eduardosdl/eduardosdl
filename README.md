@@ -3,15 +3,15 @@
 ### 🖥️ Buscando evoluir no mundo da programação
 ### ❤ Amo tecnoligia
 
-<!--
+<!--informações sobre commits feitos com nota em letra
 <a href="https://github.com/eduardosdl">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosdl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 -->
 
-<!-- informações sobre os commits fitos
+<!-- informações sobre os commits feitos com nota em numero
 <a href="https://github.com/eduardosdl">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Eduardo Silva" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosdln&theme=react&hide_border=true"/>
+    <img title="Descripitions about commits in github" src="http://github-readme-streak-stats.herokuapp.com?user=eduardosdl&theme=tokyonight"/>
 </a>
 -->
 
