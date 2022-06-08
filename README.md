@@ -20,3 +20,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosdl&layout=compact&langs_count=7&theme=react&hide_border=true"/>  
 </a>
 -->
+
+<!-- animação da cobrinha
+![Snake animation](https://github.com/eduardosdl/eduardosdl/blob/output/github-contribution-grid-snake.svg)
+-->
