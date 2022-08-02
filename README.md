@@ -26,6 +26,5 @@
 </a>
 -->
 
-<!-- animação da cobrinha
+<!-- animação da cobrinha -->
 ![Snake animation](https://github.com/eduardosdl/eduardosdl/blob/output/github-contribution-grid-snake.svg)
--->
