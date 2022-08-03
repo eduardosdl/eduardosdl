@@ -6,20 +6,24 @@
 ## Olá! Meu nome é Eduardo
 ### 📚 Sou estudante de Engnharia de computação
 ### 🖥️ Buscando evoluir no mundo da programação
-### ❤ Amor por tecnoligia
+### ❤ Amor por tecnologia
 
 <!--
-<div style="display: inline-block"> <br>
-<img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<div align="center">
+
+### Habilidades: 
+
+<div style="display: inline_block"><br>
+    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<div>
+
 <div>
 -->
-
-
 <!--informações sobre commits feitos com nota em letra
 <a href="https://github.com/eduardosdl">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosdl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
