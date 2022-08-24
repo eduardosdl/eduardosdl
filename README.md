@@ -1,5 +1,5 @@
 ## Hi, My name is Eduardo
-### 📚 I'm computer engineer studante
+### 📚 I'm computer engineer studant
 ### 🖥️ I seek to evolve as a developer
 ### ❤ Love technology
 
