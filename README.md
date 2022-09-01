@@ -1,10 +1,10 @@
 ## Hi, My name is Eduardo
-### 📚 I'm computer engineer studant
+### 📚 Studant of Analysis and System Development
 ### 🖥️ I seek to evolve as a developer
 ### ❤ Love technology
 
 ## Olá! Meu nome é Eduardo
-### 📚 Sou estudante de Engnharia de computação
+### 📚 Estudante de Análise e Desenvolvimento de Sistemas
 ### 🖥️ Buscando evoluir no mundo da programação
 ### ❤ Amor por tecnologia
 
