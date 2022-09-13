@@ -7,6 +7,7 @@
 ### 📚 Estudante de Análise e Desenvolvimento de Sistemas
 ### 🖥️ Buscando evoluir no mundo da programação
 ### ❤ Amor por tecnologia
+##
 
 <div align="center">
     <a href="https://github.com/eduardosdl">
