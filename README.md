@@ -16,7 +16,7 @@
     <br/>
     <br/>
     <p align="center">
-        <a href="https://github.com/eduardosl">
+        <a href="https://github.com/eduardosdl">
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosdl&layout=compact&langs_count=7&theme=react&hide_border=true"/>
         </a>
     </p>
