@@ -17,20 +17,14 @@
     <br/>
     <p align="center">
         <a href="https://github.com/eduardosdl">
-            <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosdl&layout=compact&langs_count=6&hide=EJS,PHP&theme=react&hide_border=true"/>
+            <img  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosdl&layout=compact&langs_count=6&hide=EJS,PHP&theme=react&hide_border=true"/>
         </a>
     </p>
 
-###  🏅 Habilidades:
-    
-<div style="display: inline_block">
-    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img aling="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<div>
+###  🏅 Hard Skills:
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,postgres,mongodb,docker" />
+</a>
 
 <br/>
 <br/>
@@ -40,9 +34,3 @@
 </a>
     
 <div>
-
-<!--informações sobre commits feitos com nota em letra
-<a href="https://github.com/eduardosdl">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardosdl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
--->
