@@ -7,30 +7,29 @@
 ### 📚 Estudante de Análise e Desenvolvimento de Sistemas
 ### 🖥️ Buscando evoluir no mundo da programação
 ### ❤ Amor por tecnologia
+
 ##
 
 <div align="center">
-    <a href="https://github.com/eduardosdl">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="eduardosdl" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosdl&theme=react&hide_border=true"/>
-    </a>
-    <br/>
-    <br/>
-    <p align="center">
-        <a href="https://github.com/eduardosdl">
-            <img  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosdl&layout=compact&langs_count=6&hide=EJS,PHP&theme=react&hide_border=true"/>
-        </a>
-    </p>
+    
+### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=eduardosdl&theme=react&hide_border=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosdl&layout=compact&langs_count=6&hide=EJS,PHP&theme=react&hide_border=true&card_width=350em)
 
-###  🏅 Hard Skills:
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,postgres,mongodb,docker" />
-</a>
+##
+###  🏅 Tech Stack:
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,postgres,mongodb,docker)
 
-<br/>
-<br/>
-
+##
+###  🌐 Social:
 <a href="https://www.linkedin.com/in/eduardolimafilho/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
     
-<div>
+<!--
+##
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eduardosdl&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+-->
+    
+</div>
