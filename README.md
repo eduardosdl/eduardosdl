@@ -18,7 +18,7 @@
 
 ##
 ###  🏅 Tech Stack:
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,postgres,mongodb,bash,docker)
+![](https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,mongodb,bash,docker)
 
 ##
 ###  🌐 Social:
